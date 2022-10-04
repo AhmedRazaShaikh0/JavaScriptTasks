@@ -30,10 +30,10 @@ console.log(famous_quote2);
 console.log(famous_person +" " + my_msg);
 /*
 //               """"Task 6"""""
-let name2= "Muhammad \n Yazib"
+let name2= "Ahmed \n Raza"
 console.log(name2)
 
-name2="Muhammad \t Yazib";
+name2="Ahmed \t Raza";
 console.log(name2);
 
 */
